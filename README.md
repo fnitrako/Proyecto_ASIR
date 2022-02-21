@@ -17,9 +17,9 @@
 
 <h3>Medios hardware y software a utilizar</h3><br>
     Necesitaré:
-    - Una maquina virtual para instalar el servidor RADIUS.
-    - Un router Microtik con WIFI.
-    - Equipos cliente, como mi portatil para realizar las correspondientes pruebas.
+    - Una maquina virtual para instalar el servidor RADIUS.<br>
+    - Un router Microtik con WIFI.<br>
+    - Equipos cliente, como mi portatil para realizar las correspondientes pruebas.<br>
 
 <h3>Planificación</h3><br>
     Aún por determinar.
