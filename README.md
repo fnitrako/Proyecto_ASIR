@@ -1,31 +1,31 @@
 # Proyecto_ASIR
 <div>
-<div style="background-color:blue">Titulo del proyecto</div><br>
+***Titulo del proyecto***<br>
     Instalación y configuración de un servidor RADIUS.
 </div><br>
 
 <div>
-<div id="titulo">Autor del proyecto</div><br> 
+***Autor del proyecto***<br> 
     Francisco Javier García Cordero.
 </div><br>
 
 <div>
-<div id="titulo">Introducción del proyecto</div><br>
+***Introducción del proyecto***<br>
     Quiero instalar y configurar un servidor RADIUS, y además una web para administrar los usuarios.<br>
 </div><br>
 
 <div>
-<div id="titulo">Finalidad<div><br>
+***Finalidad***<br>
     Aumentar la seguridad en la conexión WIFI de la clase y mejorar y falicitar la administración de los usuarios (alumnos) que se conectarán.
 </div><br>
 
 <div>
-<div id="titulo">Obejtivos</div><br>
+***Obejtivos***<br>
     Una vez configurado, podremos crear, para cada alumno, un usuario y contraseña con el que accedera a la conexión WIFI que se determine y asi el administrador sera consciente de quien y cuando esta haciendo uso de dicha conexión.
 </div><br>
 
 <div>
-<div id="titulo">Medios hardware y software a utilizar</div><br>
+***Medios hardware y software a utilizar***<br>
     Necesitaré:<br>
     - Una maquina virtual para instalar el servidor RADIUS.<br>
     - Un router Microtik con WIFI.<br>
@@ -34,6 +34,6 @@
 </div><br>
 
 <div>
-<div id="titulo">Planificación</div><br>
+***Planificación***<br>
     Aún por determinar.
 </div>
