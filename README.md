@@ -1,33 +1,45 @@
 # Proyecto_ASIR
+<style>
+.titulo{
+    background-color: blue;
+}
+</style>
 
 <div>
-Titulo del proyecto<br>
+<div id="titulo">Titulo del proyecto</div><br>
     Instalación y configuración de un servidor RADIUS.
 </div><br>
+
 <div>
-Autor del proyecto<br> 
+<div id="titulo">Autor del proyecto</div><br> 
     Francisco Javier García Cordero.
 </div><br>
+
 <div>
-Introducción del proyecto<br>
-    Quiero instalar y configurar un servidor RADIUS, primero en mi casa, y cuando lo haya testeado adaptarlo a la clase.<br>
+<div id="titulo">Introducción del proyecto</div><br>
+    Quiero instalar y configurar un servidor RADIUS, y además una web para administrar los usuarios.<br>
 </div><br>
+
 <div>
-Finalidad<br>
-    Aumentar la seguridad en la conexión WIFI de la clase y mejorar y falicitar la administración de los usuarios (alumnos) sobre la conexión WIFI de la clase y los recursos a los que da acceso.
+<div id="titulo">Finalidad<div><br>
+    Aumentar la seguridad en la conexión WIFI de la clase y mejorar y falicitar la administración de los usuarios (alumnos) que se conectarán.
 </div><br>
+
 <div>
-Obejtivos<br>
-    Una vez configurado, podremos crear, para cada alumno, un usuario y contraseña con el que accederan a la conexión WIFI que se determine y asi el administrador sera consciente de quien y cuando esta haciendo uso de dicha conexión.
+<div id="titulo">Obejtivos</div><br>
+    Una vez configurado, podremos crear, para cada alumno, un usuario y contraseña con el que accedera a la conexión WIFI que se determine y asi el administrador sera consciente de quien y cuando esta haciendo uso de dicha conexión.
 </div><br>
+
 <div>
-Medios hardware y software a utilizar<br>
+<div id="titulo">Medios hardware y software a utilizar</div><br>
     Necesitaré:<br>
     - Una maquina virtual para instalar el servidor RADIUS.<br>
     - Un router Microtik con WIFI.<br>
+    - Un PC.
     - Equipos cliente, como mi portatil para realizar las correspondientes pruebas.<br>
 </div><br>
+
 <div>
-Planificación<br>
+<div id="titulo">Planificación</div><br>
     Aún por determinar.
 </div>
