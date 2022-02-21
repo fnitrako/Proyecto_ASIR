@@ -1,12 +1,6 @@
 # Proyecto_ASIR
-<style>
-.titulo{
-    background-color: blue;
-}
-</style>
-
 <div>
-<div id="titulo">Titulo del proyecto</div><br>
+<div style="background-color:blue">Titulo del proyecto</div><br>
     Instalación y configuración de un servidor RADIUS.
 </div><br>
 
