@@ -2,6 +2,7 @@
 
 ***Titulo del proyecto***<br>
     Instalación y configuración de un servidor RADIUS.<br>
+    Creación de paginas web para la administración de usuarios. <br>
 
 ***Autor del proyecto***<br> 
     Francisco Javier García Cordero.<br>
@@ -10,7 +11,7 @@
     Quiero instalar y configurar un servidor RADIUS, y además una web para administrar los usuarios.<br>
 
 ***Finalidad***<br>
-    Aumentar la seguridad en la conexión WIFI de la clase y mejorar y falicitar la administración de los usuarios (alumnos) que se conectarán.<br>
+    Aumentar la seguridad en la conexión WI-FI de la clase y mejorar y falicitar la administración de los usuarios (alumnos) que se usarán el WI-FI.<br>
 
 ***Obejtivos***<br>
     Una vez configurado, podremos crear, para cada alumno, un usuario y contraseña con el que accedera a la conexión WIFI que se determine y asi el administrador sera consciente de quien y cuando esta haciendo uso de dicha conexión.<br>
@@ -19,8 +20,10 @@
     Necesitaré:<br>
     - Una maquina virtual para instalar el servidor RADIUS.<br>
     - Un router Microtik con WIFI.<br>
-    - Un PC.
+    - Un PC.<br>
     - Equipos cliente, como mi portatil para realizar las correspondientes pruebas.<br>
+    - El software Free-Radius.<br>
+    - El software Visual Studio Code.<br>
 
 ***Planificación***<br>
-    Aún por determinar.
+    - Varias horas diarias por las tardes de Lunes a Viernes.
